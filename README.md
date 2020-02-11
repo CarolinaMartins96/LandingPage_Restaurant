@@ -9,5 +9,5 @@
 </ul>
 
 <p align="center">
-  <img width="560" height="300" src="https://i.ibb.co/P6kTCzN/preview.png">
+  <img width="360" height="400" src="https://i.ibb.co/P6kTCzN/preview.png">
 </p>
