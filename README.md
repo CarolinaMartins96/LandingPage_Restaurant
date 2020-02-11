@@ -6,6 +6,7 @@
   <li> HTML5 </li>
   <li> CSS3: CSS Grid, CSS Flexbox</li>
   <li> Font Awesome </li>
+  <li> Google Fonts </li>
 </ul>
 
 <p align="center">
