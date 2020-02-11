@@ -8,4 +8,4 @@
   <li> Font Awesome </li>
 </ul>
 
-![alt text](https://ibb.co/G5msP30"><img src="https://i.ibb.co/P6kTCzN/preview.png)
+![alt text](https://i.ibb.co/P6kTCzN/preview.png>)
