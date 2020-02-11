@@ -9,5 +9,5 @@
 </ul>
 
 <div style="align: center">![alt text](https://i.ibb.co/P6kTCzN/preview.png>)</div>
-  <center> <img src="(https://i.ibb.co/P6kTCzN/preview.png>" width=300 height=150> </center>
+  <center> <img src="https://i.ibb.co/P6kTCzN/preview.png" width=300 height=150> </center>
 
