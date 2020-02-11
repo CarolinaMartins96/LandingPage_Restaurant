@@ -8,8 +8,6 @@
   <li> Font Awesome </li>
 </ul>
 
-  <center> <img src="https://i.ibb.co/P6kTCzN/preview.png"> </center>
-
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/P6kTCzN/preview.png">
+  <img width="560" height="500" src="https://i.ibb.co/P6kTCzN/preview.png">
 </p>
